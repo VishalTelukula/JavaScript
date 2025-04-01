@@ -1,0 +1,13 @@
+What You'll Learn:
+
+localStorage → Saving tasks permanently
+
+Creating and deleting elements dynamically
+
+input.value → Getting user input
+
+Arrays & .push() → Storing multiple items
+
+forEach() → Looping through items
+
+📌 Extra Challenge: Add an edit feature for tasks!
